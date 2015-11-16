@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="Close4RelaysWith2minDelay.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.Close4RelaysWith2minDelay.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
